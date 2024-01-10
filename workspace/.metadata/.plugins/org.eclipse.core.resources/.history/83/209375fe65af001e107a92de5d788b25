@@ -1,0 +1,30 @@
+package tw.ispan.model;
+
+public class CompanyBean {
+
+	
+	private Integer companyID;
+	
+	private String companyName;
+	
+	public CompanyBean() {
+		
+	}
+
+	public Integer getCompanyID() {
+		return companyID;
+	}
+
+	public String getCompanyName() {
+		return companyName;
+	}
+
+	public void setCompanyID(Integer companyID) {
+		this.companyID = companyID;
+	}
+
+	public void setCompanyName(String companyName) {
+		this.companyName = companyName;
+	}
+
+}

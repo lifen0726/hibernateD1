@@ -1,0 +1,26 @@
+1704857702292	Extract local variable 'serviceRegistry'
+1704857784276	Extract local variable 'factory'
+1704857837909	Extract local variable 'session'
+1704857917388	Extract local variable 'comBean'
+1704859071735	Copy compilation unit
+1704859373814	Extract local variable 'comBean'
+1704859566213	Extract local variable 'identifier'
+1704866594382	Extract local variable 'serviceRegistry'
+1704866750447	Extract local variable 'factory'
+1704866842647	Extract local variable 'session'
+1704866882647	Extract local variable 'dept'
+1704867599824	Extract local variable 'SessionRegistry'
+1704867682366	Extract local variable 'factory'
+1704868196612	Copy compilation unit
+1704868228341	Rename type 'DemoDepartmentEx1'
+1704868252585	Copy compilation unit
+1704868256843	Delete element
+1704870569364	Copy compilation unit
+1704871723255	Copy compilation unit
+1704871785868	Extract local variable 'tx'
+1704873538622	Copy compilation unit
+1704873767255	Extract local variable 'dept'
+1704874402542	Copy compilation unit
+1704874523615	Extract local variable 'dept'
+1704874821445	Copy compilation unit
+1704874990303	Extract local variable 'dept'
